@@ -1,3 +1,12 @@
 body{
     font-size: 1em;
     font-family: Arial, Helvetica, sans-serif;
+}
+.blue-button{
+    color: blue;
+}
+.red-button{
+    color: red;
+}
+.green-button{
+    color: green;
