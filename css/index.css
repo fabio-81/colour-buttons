@@ -9,6 +9,9 @@ body{
 ul{
     list-style: none;
 }
+.main-heading{
+    text-align: center;
+}
 .blue-button{
     color: blue;
 }
