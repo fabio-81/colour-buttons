@@ -10,6 +10,7 @@ body{
 }
 ul{
     list-style: none;
+    padding-left: 0;
 }
 .main-heading{
     text-align: center;
