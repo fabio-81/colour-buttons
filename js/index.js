@@ -13,15 +13,21 @@ let $body = document.querySelector('body')
 
 //make the button clickable
 
-//function makeBodyRed(){
 //apply the red colour to the body as a background colour
-//$body.style.backgroundColor = 'red'
-
-//}
 function makeBodyRed(){
     $body.style.backgroundColor = 'red'
 }
 
+//apply the blue colour to the body as a background colour
+function makeBodyBlue(){
+    $body.style.backgroundColor = 'blue'
+}
+
+//apply the green colour to the body as a background colour
+
+function makeBodyGreen(){
+    $body.style.backgroundColor ='green'
+}
 
 //connect a function to the occurence of an event
 //1.who am I watching? btnRed
