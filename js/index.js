@@ -35,3 +35,7 @@ function makeBodyGreen(){
 //3.what do I do when it happens? makeBodyRed
 
 $btnRed.addEventListener('click', makeBodyRed)
+
+$btnBlue.addEventListener('click', makeBodyBlue)
+
+$btnGreen.addEventListener('click', makeBodyGreen)
