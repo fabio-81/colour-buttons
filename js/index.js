@@ -1,3 +1,5 @@
+//references
+
 //find the element with the id #red
 let $btnRed = document.querySelector('#red')
 
@@ -28,6 +30,7 @@ function makeBodyBlue(){
 function makeBodyGreen(){
     $body.style.backgroundColor ='green'
 }
+
 
 //connect a function to the occurence of an event
 //1.who am I watching? btnRed
